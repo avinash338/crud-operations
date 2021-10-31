@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Virat",
+      "place": "Delhi",
+      "role": "Bat"
+    },
+    {
+      "id": 2,
+      "name": "Rohit",
+      "place": "Delhi",
+      "role": "Batsman"
+    },
+    {
+      "id": 3,
+      "name": "Dhoni",
+      "place": "Ranchi",
+      "role": "Batsman"
+    }
+  ]
+}
